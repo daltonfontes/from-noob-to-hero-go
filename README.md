@@ -1,2 +1,2 @@
-# from-noob-to-hero-go
+# From Noob To Hero
 My Path To Learn Go
